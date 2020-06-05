@@ -1,0 +1,22 @@
+.login{
+
+    width: 600px;
+    height: 550px;
+
+background-color: teal;
+margin-top:40px ;
+border-radius: 10px;
+border-style: double;
+
+}
+
+.form-group{
+    padding-top: 50px;
+    padding-right: 20px;
+    padding-left: 20px; ;
+}
+.loginbutn{
+    color: white !important;
+}
+
+

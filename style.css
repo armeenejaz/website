@@ -1,0 +1,99 @@
+.navbar-light {
+    background-color:#aaf255;
+}
+
+.navbar-nav{
+
+    margin-left: 600px;
+}
+.nav-item{
+     font-weight: bold;
+    color: black; 
+
+   
+    padding-left: 20px !important;
+    
+}
+
+
+
+
+
+.navbar-brand:hover{
+    color: white !important;
+}
+
+
+
+.icons{
+    padding-right: 40px !important;
+    color: black !important;
+    margin-left: 10px;
+}
+
+
+.feature{
+    color: #7fb83f ;
+    font-size: 40px;
+    animation: bounce;
+    animation-duration: 3s;
+}
+ 
+
+.login{
+    color: black !important;
+}
+
+.login:hover{
+    color: white !important;
+}
+
+
+.carousel-inner {
+
+ 
+    
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 100px;
+    
+}
+
+
+
+.card{
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    font-size: 15px;
+    height: auto;
+    border-style: dotted;
+    animation: swing;
+    animation-duration: 3s;
+    
+    
+}
+
+ 
+.end {
+
+    background-color:#aaf255 ;
+    
+    
+} 
+
+.end1{
+
+     list-style-type: none;
+     
+    }
+.end2{
+    margin-left: 200px;
+    
+}
+
+.copy {
+    background-color: rgb(175, 171, 171)  ;
+    color:black;
+}
